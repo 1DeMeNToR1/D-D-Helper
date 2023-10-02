@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-02T06:46:54.801Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.2271 YaBrowser/23.9.0.2271 Yowser/2.5 Safari/537.36" etag="esSAq3Xh4ZZGKPkzan2j" version="21.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-02T07:03:43.457Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.5845.2271 YaBrowser/23.9.0.2271 Yowser/2.5 Safari/537.36" etag="v7nnzRe3pUHTWOGM_MaE" version="21.8.2" type="github">
   <diagram name="Страница — 1" id="jvkb7Z_AVvAjdhoQqOSj">
     <mxGraphModel dx="2133" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -125,6 +125,14 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="f-tuK9ODlxQQK8mU3Vla-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="f-tuK9ODlxQQK8mU3Vla-12" target="f-tuK9ODlxQQK8mU3Vla-45">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="110" y="740" />
+              <mxPoint x="690" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="f-tuK9ODlxQQK8mU3Vla-12" value="Аппаратное" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="660" width="120" height="60" as="geometry" />
         </mxCell>
@@ -157,9 +165,6 @@
         </mxCell>
         <mxCell id="f-tuK9ODlxQQK8mU3Vla-24" value="Технические средства" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="987" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="f-tuK9ODlxQQK8mU3Vla-25" value="Машинный носитель информации" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="1052" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="f-tuK9ODlxQQK8mU3Vla-26" value="Носитель информации" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="1117" width="120" height="60" as="geometry" />
@@ -432,12 +437,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="1146.5" as="sourcePoint" />
             <mxPoint x="170" y="1147" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="f-tuK9ODlxQQK8mU3Vla-101" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="200" y="1076.5" as="sourcePoint" />
-            <mxPoint x="170" y="1077" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="f-tuK9ODlxQQK8mU3Vla-102" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
